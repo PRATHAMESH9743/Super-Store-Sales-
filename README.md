@@ -12,19 +12,18 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 The Super Store Sales Power BI project is centered around the analysis of sales data, offering a user-friendly interface that enables users to explore and understand key trends, patterns, and performance metrics. By leveraging the power of Power BI, this project transforms raw sales data into meaningful visualizations and actionable insights.
 
-### Key Features
+## DESCRIPITION
+The objective can be broken down into the following detailed components:
 
-- **Interactive Dashboards:** Explore interactive dashboards that provide a holistic view of sales performance, allowing users to drill down into specific regions, time periods, and product categories.
+## 1. Dashboard creation:
+Identify the KPI'S, design an intuitive and visually appealing dashboards, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
+## 2. Data Analysis:
+Provide valuable insights to business entities regarding the effectiveness of their sales stratergies through visualizations and charts.
+## 3. Sales Forecasting:
+Leverage historic data and apply time series analysis to generate sales forecasting for next 15 days.
+## 4. Actionable insights and recommendations:
+End goal is to share valuable insights and actionable information that can drive startegic decision making and support the supermarket's goals for growth, efficiency, and customer satisfaction
 
-- **Comprehensive Analysis:** Gain a deep understanding of sales trends, customer behavior, and product performance through comprehensive analysis tools and visualizations.
-
-- **Performance Metrics:** Track key performance indicators (KPIs) such as revenue, profit margins, and sales growth over time, helping you identify areas for improvement and optimization.
-
-- **Geospatial Visualizations:** Utilize geospatial visualizations to analyze sales distribution across different regions, identify high-performing areas, and target potential market opportunities.
-
-- **Customer Segmentation:** Explore customer segmentation analyses to understand different customer segments, their purchasing behavior, and tailor marketing strategies accordingly.
-
-- **Predictive Analytics (Optional):** Implement predictive analytics models, if applicable, to forecast future sales trends and proactively plan for market changes.
 
 ### Getting Started
 
