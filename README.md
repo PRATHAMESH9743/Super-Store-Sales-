@@ -59,3 +59,17 @@ Here #N/A means no product has been returned due to any damage, so we are replac
 
 Step3. Remove the empty or extra columns
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/94e54fe5-cb18-452f-8f31-0ef0b5e089ad)
+
+## Dashboard CREATION
+## Sales by Category
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/42aeb00c-7303-4ec1-b713-cf72b66f52cb)
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/cc950904-e133-4487-b5b9-d16bcbf568fd)
+
+## Sales by Sub-Category
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/c1871edf-4c01-4d47-9d6a-a210a43e4e8c)
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/659955b1-779b-47db-a7b6-e936830711b8)
+
+
+
