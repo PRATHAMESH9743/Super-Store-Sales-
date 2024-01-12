@@ -61,6 +61,23 @@ Step3. Remove the empty or extra columns
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/94e54fe5-cb18-452f-8f31-0ef0b5e089ad)
 
 ## Dashboard CREATION
+## KPI'S 
+## 1. Sales
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/17772ed4-7fdb-4a5d-8862-060510d4e926)
+
+## 2. Quantity
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/4fadd6cb-71a0-4142-8e2f-62f356e2f150)
+
+## 3. Profit
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/61d1feb9-94f8-478e-90b2-2050836daba8)
+
+## 4. Avg_Delivery Date
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/00805421-dad2-424a-95e9-1f5ade92fe4b)
+
 ## Sales by Category
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/42aeb00c-7303-4ec1-b713-cf72b66f52cb)
 
@@ -96,7 +113,13 @@ Step3. Remove the empty or extra columns
 
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/8302e417-39b3-435a-bf63-8f1bbcf08f1c)
 
+## Sales by Region
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/0583ee1b-2ea7-47ae-b28e-c0dafff0ea1d)
 
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/e9e736a0-89ff-41aa-b6d4-aa99082a6209)
+
+## Slicer Based on Region
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/171214b3-10f7-4c59-97ce-4bdf107ac777)
 
 
 
