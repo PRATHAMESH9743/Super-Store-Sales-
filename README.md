@@ -4,6 +4,10 @@
 
 Welcome to the Super Store Sales Power BI project! This comprehensive business intelligence solution is designed to analyze and visualize sales data for the Super Store. Whether you're a business analyst, manager, or stakeholder, this Power BI project provides valuable insights into the Super Store's sales performance, helping you make informed decisions and drive business growth.
 
+## OBJECTIVE
+
+To contribute to the success of a business by utilizing data analysis techniques, specifically, focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
 ### Overview
 
 The Super Store Sales Power BI project is centered around the analysis of sales data, offering a user-friendly interface that enables users to explore and understand key trends, patterns, and performance metrics. By leveraging the power of Power BI, this project transforms raw sales data into meaningful visualizations and actionable insights.
@@ -36,3 +40,6 @@ To get started with the Super Store Sales Power BI project, follow the instructi
 
 5. **Documentation:** Refer to the accompanying documentation for detailed explanations of data sources, visualizations, and any optional features included in the project.
 
+## DATA SOURCE: super store sales dataset.csv
+
+ 
