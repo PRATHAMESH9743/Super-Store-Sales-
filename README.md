@@ -71,5 +71,13 @@ Step3. Remove the empty or extra columns
 
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/659955b1-779b-47db-a7b6-e936830711b8)
 
+## Sales by Ship Mode
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/0c9088d4-e55e-4768-a8ca-136d3abb4032)
 
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/f22dcdc7-d4d9-4018-9980-82a51e95d9c8)
+
+## Sales by Month
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/50fe0f64-255e-4f7e-abc3-e3af860d85fa)
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/cb4616d0-5530-4207-b853-c2a458520cd4)
 
