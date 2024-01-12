@@ -81,3 +81,30 @@ Step3. Remove the empty or extra columns
 
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/cb4616d0-5530-4207-b853-c2a458520cd4)
 
+## Profit by Month
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/e35475bc-a9a3-4f3d-b1e9-34b44c257e67)
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/e9b89470-7c0f-4bff-8942-f9bc55cd5c18)
+
+## Sales by Segment
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/f5d80cf7-d51b-4aff-b522-b9cdaec81c2b)
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/3cacce9f-e24a-4b7d-a012-0575c2470870)
+
+## Sales by Payment Mode
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/24581eba-b157-4e4e-a916-b15ab747d52c)
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/8302e417-39b3-435a-bf63-8f1bbcf08f1c)
+
+
+
+
+
+
+
+
+
+
+
+
+
