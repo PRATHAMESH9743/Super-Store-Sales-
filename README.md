@@ -121,6 +121,13 @@ Step3. Remove the empty or extra columns
 ## Slicer Based on Region
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/171214b3-10f7-4c59-97ce-4bdf107ac777)
 
+## DAX Query & Data Analysis
+The 4th KPI [Average Delivery date] is created by creating a new coulmn called Average Delivery date and the function used is 
+
+Average_Delivery = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],SuperStore_Sales_Dataset[Ship Date],DAY)
+
+![Screenshot (229)](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/24848182-5ae5-4893-b7af-7441ead01b15)
+
 
 
 
