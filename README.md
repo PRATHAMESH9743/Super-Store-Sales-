@@ -128,8 +128,19 @@ Average_Delivery = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],SuperStore_Sa
 
 ![Screenshot (229)](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/24848182-5ae5-4893-b7af-7441ead01b15)
 
+## Sales forecast - 15 Days
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/df5ee68a-5970-40eb-82b2-852590a70f25)
 
+## Sales forecast - 15 Days  with Zoom Slider
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/c90d2b21-5cb9-400b-b791-50c449c28fd7)
 
+## Sales by States
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/e705db2a-ee95-469b-b113-00620e0302bf)
+
+## Complete Dashboard
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/dbad05bf-d487-4560-b234-fc1f1a1c6f4a)
+
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/46aaa3dc-b799-4f7a-a237-b9599ceb10af)
 
 
 
