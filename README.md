@@ -131,6 +131,11 @@ Average_Delivery = DATEDIFF('SuperStore_Sales_Dataset'[Order Date],SuperStore_Sa
 
 ![Screenshot (229)](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/24848182-5ae5-4893-b7af-7441ead01b15)
 
+## Sales forecast 
+using DAX Query and Time series we can create table
+![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/6c800410-4f74-48cc-8290-a31eef9c2085)
+
+
 ## Sales forecast - 15 Days
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/df5ee68a-5970-40eb-82b2-852590a70f25)
 
