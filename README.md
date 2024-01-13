@@ -150,7 +150,25 @@ using DAX Query and Time series we can create table
 
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/46aaa3dc-b799-4f7a-a237-b9599ceb10af)
 
+## Findings
+## KPI'S
+1. The Total sales were 1.6 Million.
+2. The Quantity was 22 Thousand.
+3. The Total Profit was 175 Thousand.
+4. The Average Deliver Date was 4 Days.
 
+## CHART FINDINGS
+1. Cash-on-delivery (COD) is the payment mode that contributes the highest percentage to your sales, accounting for 43%. Cash-on-delivery is a popular payment method in which customers pay for their purchases in cash at the time of delivery.
+2. The consumer segment contributes the highest percentage to sales, accounting for 48%.
+3. The West region contributes the highest percentage to sales, accounting for 33%.
+4. The Standard Class ship mode contributes to sales, amounting to 0.33 million's.
+5. The Office Supplies category contributes to sales, amounting to 0.64 million's.
+6. The Phones sub-category contributes to sales, amounting to 0.20 million's.
+7. The majority of sales occurred during the months of November and December.
+8. The highest profit margins were recorded in the months of October and December.
+
+## Learning
+Incorparated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business sucess.
 
 
 
