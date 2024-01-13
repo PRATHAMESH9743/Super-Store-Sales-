@@ -48,16 +48,19 @@ To get started with the Super Store Sales Power BI project, follow the instructi
 
 Step1. check for any errors or duplicates or null values 
 select all columns > go to view tab > select the column quality
+
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/f1d68f76-2cc0-45e4-9a7a-ab93e4d32077)
 
 Step2. Find and Replace 
 
 Go to Returns column > select the entire column > change the #N/A to 0.
 Here #N/A means no product has been returned due to any damage, so we are replacing the #N/A to 0.
+
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/38308269-c83e-4788-83ee-3d442699a505)
 
 
 Step3. Remove the empty or extra columns
+
 ![image](https://github.com/PRATHAMESH9743/Super-Store-Sales-/assets/154798147/94e54fe5-cb18-452f-8f31-0ef0b5e089ad)
 
 ## Dashboard CREATION
