@@ -1,4 +1,4 @@
-# Super Store Sales Power BI Project - 2023
+# Super Store Sales Power BI Project 
 
 ## INTRODUCTION
 
